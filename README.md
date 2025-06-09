@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Jordan Williams
-- 👀 I’m interested in Python and Swift Programming
-- 🌱 I’m currently learning Python, Swift, HTML, C#, and Java
+- 👋 Hi, I’m Jordan Williams and I am recently getting back into coding.
+- 👀 I’m interested in Python and Javascript Programming
+- 🌱 I’m currently learning Python, HTML, CSS, and Javascript
 - 💞️ I’m looking to collaborate on Python and Swift
 
 <!---
